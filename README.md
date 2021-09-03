@@ -1,5 +1,5 @@
 # Capstone-Project-game
- in the game you play as an astronot trying to get to your spaceship
+ In this game projet you play as an astronot trying to get to your spaceship
  and enemy aliens try to stop you.
  
  ## How to play
